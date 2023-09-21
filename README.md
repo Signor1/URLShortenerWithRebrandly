@@ -2,7 +2,7 @@
 
 This is a URL shortener web application built using React.js, Axios, Vite, and Tailwind CSS. It leverages the Rebrandly API for URL shortening functionality and includes a convenient "Copy to Clipboard" feature.
 
-<img src=""/>
+<img src="https://github.com/Signor1/URLShortenerWithRebrandly/blob/fc241e3f54400dda3a80c3ec07a96b94169a82e3/URL-Shortener.png" width="70%" height="400"/>
 
 ## Features
 
